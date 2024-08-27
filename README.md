@@ -22,7 +22,7 @@ O projeto desenvolvido é de uma plataforma de cursos em que você pode assistir
 
 ## 🔗 Site disponível em:
 
-
+https://joaomonferrari.github.io/projeto-alura-plus/
 
 ## 🔧 Feito por:
 
